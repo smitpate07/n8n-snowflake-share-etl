@@ -46,13 +46,9 @@ The workflow consists of the following steps:
 ## 🔎 How it works:
 
 1.  Read field value → It extracts the field WP_REC_START_DATE from each record.
-
 2. Generate a hash → Uses md5 to create a unique numeric hash from that value.
-
 3. Assign chunk → Divides the hash number by 8 and takes the remainder (% 8), producing a chunk number between 0 and 7.
-
 4. Tag the record → The chunk number is added as a new field (chunk) in the record.
-
 5. Return output → The updated records, now labeled with chunk numbers, are passed forward.
 
 
