@@ -89,7 +89,7 @@ This workflow solves the challenge of **loading shared Snowflake data into targe
 - Providing a low-code framework for automating Snowflake share consumption  
 
 It can also be adapted for:  
-- Multi-chunk data pipelines  
+
 - Loading Snowflake shares into production schemas  
 - Integrating Snowflake shares with other ETL sources (e.g., MongoDB → Snowflake)  
 
