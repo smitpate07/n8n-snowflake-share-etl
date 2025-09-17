@@ -94,3 +94,7 @@ For **production-scale datasets (millions of records)**, you can scale up the wo
 ![Results](images/row_count_results.png)
 
 ### Illustration Video
+
+
+https://github.com/user-attachments/assets/093097af-e349-4d07-8235-2ac7f2dec1b5
+
